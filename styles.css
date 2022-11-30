@@ -51,7 +51,7 @@ a:hover {
 }
 
 .colour {
-  color: #7342d6;
+  color: #f9a826;
 }
 
 .logo {
@@ -70,7 +70,7 @@ li {
   margin-left: 16px;
   text-decoration: none;
   font-size: 20px;
-  color: #7342d6;
+  color: #f9a826;
   padding: 8px;
   font-weight: bold;
 }
@@ -80,7 +80,7 @@ li {
 }
 
 .nav__link--primary {
-  border: 2px solid #7342d6;
+  border: 2px solid #f9a826;
   border-radius: 8px; /*round corners*/
 }
 
@@ -93,7 +93,7 @@ li {
   border: none;
   font-size: 40px;
   text-align: center;
-  color: #7342d6;
+  color: #f9a826;
   display: none; /*so that the burger menu isn't there by default*/
 }
 
@@ -156,7 +156,7 @@ LANDING
 */
 
 #landing {
-  background-color: rgba(115, 66, 214, 0.1);
+  background-color: #f9a82633;
 }
 
 header {
@@ -183,7 +183,7 @@ header {
 
 h1 {
   font-size: 56px;
-  color: #7342d6;
+  color: #f9a826;
   margin-bottom: 24px;
   text-align: center;
 }
@@ -204,7 +204,7 @@ button:active {
 }
 
 .btn {
-  background-color: #7342d6;
+  background-color: #f9a826;
   color: white;
   padding: 12px 24px;
   font-size: 20px;
@@ -285,8 +285,8 @@ HIGHLIGHTS
 }
 
 .highlight__img {
-  border: 2px solid #7342d65d;
-  color: #7342d6;
+  border: 2px solid #f7a828ad;
+  color: #f7a828;
   width: 100px;
   height: 100px;
   display: flex;
@@ -316,7 +316,7 @@ FEATURES
 
 #features {
   padding: 8vh;
-  background-color: rgba(115, 66, 214, 0.1);
+  background-color: #f9a82633;
 }
 
 .books {
@@ -371,7 +371,7 @@ FEATURES
 /* EXPLORE */
 
 #explore {
-  background-color: rgba(115, 66, 214, 0.1);
+  background-color: #f9a82633;
 }
 
 /* Footer */
@@ -438,7 +438,7 @@ footer {
     width: 100%;
   }
 
-  .highlight:not(:last-child){
+  .highlight:not(:last-child) {
     margin-bottom: 24px;
   }
 }
